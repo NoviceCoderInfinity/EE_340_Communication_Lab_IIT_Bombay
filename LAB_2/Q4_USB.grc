@@ -364,7 +364,7 @@ blocks:
     comment: ''
     maxoutbuf: '0'
     minoutbuf: '0'
-    num_taps: '6500'
+    num_taps: '4003'
     win: window.WIN_HAMMING
   states:
     bus_sink: false
